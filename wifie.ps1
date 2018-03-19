@@ -51,3 +51,4 @@ function Wifie {
     Get-Variable | Remove-Variable -EA 0
 }
 
+wifie
